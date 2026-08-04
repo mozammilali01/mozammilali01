@@ -3,7 +3,7 @@
 
 ## Hi Folks, I'm Mozammil Ali
 
-### GSoC '26 Mentor @ MetaCall • Open Source Maintainer • Backend & Full-Stack Developer
+### GSoC '26 Mentor @ MetaCall • Open Source Developer
 
 <sub>Building scalable backend systems • Distributed Systems • Rust • GenAI • Competitive Programming</sub>
 
